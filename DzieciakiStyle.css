@@ -1,0 +1,54 @@
+body {
+    color: white;
+	font-family: 'Cormorant Upright', cursive;
+    font-size: 13pt;
+    background-color: #000000;
+    padding: 50px;
+    margin: 1;
+}
+
+a {
+    color: pink; 
+    background-color: black; 
+	text-decoration: none;
+    font-family: 'Cormorant Upright', cursive;
+}
+
+img {
+	width: 300px; 
+	height: 220px;
+	border: 1px solid white;
+ }
+ 
+.navigation {
+    font-size: 14pt;
+	color: pink;
+ }
+ 
+   
+.button {
+	background-color: #000000;
+    border: none;
+    color: black;
+	border-radius: 15px;
+    text-align: center;
+    font-size: 14pt;
+    background-color: black;
+    border: 2px solid white;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    box-shadow: 0 10px 10px 0 #ffe6e6, 0 10px 10px 0 #ffe6e6;
+}
+ 
+.copyright {
+    font-size: 7pt;
+    text-align: left;
+    color: white;
+}
+
+
+
